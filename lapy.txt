@@ -1,0 +1,7 @@
+#include<stdio.h>
+main()
+{
+inta,b,c;
+c=a+b;
+printf("/n add of two number")
+}
